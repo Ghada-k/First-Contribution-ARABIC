@@ -144,65 +144,65 @@
 # المُساهمون: 👨‍💻👩‍💻🧑🏻‍💻
 
 <!-- CONTRIBUTER -->
-<table border="1|0" align="center">
+<table border="0" align="center" cellpadding="10" cellspacing="0" style="max-width: 600px; width: 100%; border-collapse: separate; border-spacing: 0 20px;">
     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Yarob50">
-                <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
+            <a href="https://github.com/Yarob50" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/29100623?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>يعرُب المصطفى</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">يعرُب المصطفى</h2>
             </a>
             <br>            
-            <table>
+            <table align="center" cellpadding="8" cellspacing="0">
                 <tr> 
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/YarHmm">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- TIK TOK -->
                     <td>
                         <a href="https://www.tiktok.com/@yarobhm">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Yarob50">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -212,12 +212,12 @@
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/yarob55">
-                <img src="https://avatars.githubusercontent.com/u/32878868?v=4" width="50">
+            <a href="https://github.com/yarob55" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/32878868?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Yarob Al Mostafa</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Yarob Al Mostafa</h2>
             </a>
             <br>            
             <table>
@@ -225,35 +225,35 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/YarHmm">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- TIK TOK -->
                     <td>
                         <a href="https://www.tiktok.com/@yarobhm">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/yarob55">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -262,12 +262,12 @@
         </td>
     </tr>    
      <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/dr-almukhtar">
-                <img src="https://avatars.githubusercontent.com/u/104250863?v=4" width="50">
+            <a href="https://github.com/dr-almukhtar" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/104250863?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2> Dr. Muhannad Almukhtar </h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;"> Dr. Muhannad Almukhtar </h2>
             </a>
             <br>            
             <table>
@@ -275,7 +275,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/dr-almukhtar">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -284,12 +284,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/SaifSaidi">
-                <img src="https://avatars.githubusercontent.com/u/99614521?v=4" width="50">
+            <a href="https://github.com/SaifSaidi" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/99614521?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Saif Saidi</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Saif Saidi</h2>
             </a>
             <br>            
             <table>
@@ -297,7 +297,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/SaifSaidi">
-                          <img src="./images/github-logo.png" width="30">
+                          <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -306,12 +306,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
             &nbsp;&nbsp
-            <a href="https://github.com/Mazin-Fouad">
-                <img src="https://avatars.githubusercontent.com/u/98177409?v=4" width="50" />
+            <a href="https://github.com/Mazin-Fouad" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/98177409?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;" />
                 <br />
-                <h2>مازن فؤاد</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">مازن فؤاد</h2>
             </a>
             <br />
             <table>
@@ -319,14 +319,14 @@
                     <!-- LINKED IN -->
                     <td>
                     <a href="linkedin.com/in/mazin-fouad-332b36266">
-                        <img src="./images/linkedin-logo.png" width="30" />
+                        <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8" />
                     </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
-                    <a href="https://github.com/Mazin-Fouad">
-                        <img src="./images/github-logo.png" width="30" />
+                    <a href="https://github.com/Mazin-Fouad" style="text-decoration: none; color: #333;">
+                        <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8" />
                     </a>
                     </td>
                     <!--// GITHUB //-->
@@ -335,12 +335,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Mohamed-avr">
-                <img src="https://avatars.githubusercontent.com/u/58856307?v=4" width="50">
+            <a href="https://github.com/Mohamed-avr" style="text-decoration: none; color: #000000;">
+                <img src="https://avatars.githubusercontent.com/u/58856307?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2> mohamed boukhanouf </h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;"> mohamed boukhanouf </h2>
             </a>
             <br>            
             <table>
@@ -348,28 +348,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MohamedBoukhan5">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mohamed-boukhanouf-796583201/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/Mohamed-avr">
-                            <img src="./images/github-logo.png" width="30">
+                        <a href="https://github.com/Mohamed-avr" style="text-decoration: none; color: #333;">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -378,12 +378,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/youshakh">
-                <img src="https://avatars.githubusercontent.com/u/104216900?v=4" width="50">
+            <a href="https://github.com/youshakh" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/104216900?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>yousha khadra</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">yousha khadra</h2>
             </a>
             <br>            
             <table>
@@ -391,7 +391,7 @@
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/yousha.khadra">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
@@ -399,14 +399,14 @@
                     <!-- TIK TOK -->
                     <td>
                         <a href="https://www.tiktok.com/@yousha_khadra?is_from_webapp=1&sender_device=pc">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/youshakh">
-                        <img src="./images/github-logo.png" width="30">
+                        <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -414,12 +414,12 @@
             </table>
         </td>
         <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/NinaLoop">
-                <img src="https://avatars.githubusercontent.com/u/108150279?v=4" width="50">
+            <a href="https://github.com/NinaLoop" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/108150279?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>NinaLoop</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">NinaLoop</h2>
             </a>
             <br>            
             <table>
@@ -427,14 +427,14 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/ninaloop_">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/NinaLoop">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -443,12 +443,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Marchq21">
-                <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
+            <a href="https://github.com/Marchq21" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/132752171?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Marouane Chq</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Marouane Chq</h2>
             </a>
             <br>            
             <table>
@@ -456,14 +456,14 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/marouane_chf">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Marchq21">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -472,12 +472,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Ebrahim33/Ebrahim33.github.io.git">
-                <img src="https://avatars.githubusercontent.com/u/112424157?s=400&u=b336069ab036a67f1451c50501533c67c6b59400&v=4" width="50">
+            <a href="https://github.com/Ebrahim33/Ebrahim33.github.io.git"style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/112424157?s=400&u=b336069ab036a67f1451c50501533c67c6b59400&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>ابراهيم الخطيب</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">ابراهيم الخطيب</h2>
             </a>
             <br>            
             <table>
@@ -485,21 +485,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/awo444">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/ebrahim-alkhatib-4859aa244">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Ebrahim33/Ebrahim33.github.io.git">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -508,12 +508,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/maryam800">
-                <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="50">
+            <a href="https://github.com/maryam800" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/39832751?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Maryam Ali</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Maryam Ali</h2>
             </a>
             <br>            
             <table>
@@ -521,21 +521,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MaryamA29096677">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/maryam-ali-191a53130/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/maryam800">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -544,12 +544,12 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/kahkaj">
-                <img src="https://avatars.githubusercontent.com/u/71718084?v=4" width="50">
+            <a href="https://github.com/kahkaj" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/71718084?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>محمد محسن</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">محمد محسن</h2>
             </a>
             <br>            
             <table>
@@ -557,14 +557,14 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Mohcine17619305">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/kahkaj">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -574,12 +574,12 @@
     </tr>
     <!-- AHMAD SINAN -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Dev-AhmedOmer">
-                <img src="https://avatars.githubusercontent.com/u/111293004?s=400&u=dc206ec99e019c223712d6226b13abe44809ac63&v=4" width="50">
+            <a href="https://github.com/Dev-AhmedOmer" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/111293004?s=400&u=dc206ec99e019c223712d6226b13abe44809ac63&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>أحمد السناني</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">أحمد السناني</h2>
             </a>
             <br>            
             <table>
@@ -587,49 +587,49 @@
                     <!-- TWITTER -->
                     <td>
                         <a href=
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/a7mdOmr/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <!-- <a href="https://www.linkedin.com/in/yarobhm/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a> -->
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- TIK TOK -->
                     <td>
                         <a href="https://www.tiktok.com/@yarobhm">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Dev-AhmedOmer">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -640,12 +640,12 @@
     <!--// AHMAD SINAN //-->
     <!-- FAYYAD -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/mohamdFayyad">
-                <img src="https://avatars.githubusercontent.com/u/113478138?v=4" width="50">
+            <a href="https://github.com/mohamdFayyad" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/113478138?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Mohamed Fayyad</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Mohamed Fayyad</h2>
             </a>
             <br>            
             <table>
@@ -653,14 +653,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mohamed-fayyad-48298922a/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/mohamdFayyad">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -671,12 +671,12 @@
     <!--// FAYYAD //-->
     <!-- MOHAMMED ALSAEADY -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Mandela95">
-                <img src="https://avatars.githubusercontent.com/u/96991597?v=4" width="50">
+            <a href="https://github.com/Mandela95" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/96991597?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Mohamed Elseady</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Mohamed Elseady</h2>
             </a>
             <br>            
             <table>
@@ -684,35 +684,35 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MohElseady">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mo-seady/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/hamoelseady/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/els3eedy/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mandela95">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -723,12 +723,12 @@
     <!--// MOHAMMED ALSAEADY //-->
     <!-- MUHA -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/nmcev">
-                <img src="https://avatars.githubusercontent.com/u/126491139?s=400&u=db4a798c603f1ff7a8af59737fb2d51495e5b7c8&v=4" width="50">
+            <a href="https://github.com/nmcev" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/126491139?s=400&u=db4a798c603f1ff7a8af59737fb2d51495e5b7c8&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>muha</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">muha</h2>
             </a>
             <br>            
             <table>
@@ -736,14 +736,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/muhammed-khalid-2058b5251/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/nmcev">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -753,12 +753,12 @@
     </tr>
     <!-- MUHA -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Mohammed-Berir">
-                <img src="https://avatars.githubusercontent.com/u/20186596?v=4" width="50">
+            <a href="https://github.com/Mohammed-Berir" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/20186596?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>محمد مصطفى</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">محمد مصطفى</h2>
             </a>
             <br>            
             <table>
@@ -766,7 +766,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mohammed-Berir">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -776,12 +776,12 @@
     </tr>
     <!-- HamzaDev -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/HamzaElkotp">
-                <img src="https://avatars.githubusercontent.com/u/61008779?v=4" width="50">
+            <a href="https://github.com/HamzaElkotp" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/61008779?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>HamzaDev //HamzaElkotb</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">HamzaDev //HamzaElkotb</h2>
             </a>
             <br>            
             <table>
@@ -789,42 +789,42 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/HamzaElkotp">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/HamzaElkotp">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href=" https://www.youtube.com/@DevCoder">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/HamzaElkotp">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/HamzaElkotp">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/HamzaElkotp">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -835,12 +835,12 @@
     <!-- HamzaDev -->
     <!-- ABDULKARIM -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/abdulkerim-awad">
-                <img src="https://avatars.githubusercontent.com/u/79903897?v=4" width="50">
+            <a href="https://github.com/abdulkerim-awad" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/79903897?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Abdulkerim Awad</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Abdulkerim Awad</h2>
             </a>
             <br>            
             <table>
@@ -848,7 +848,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/abdulkerim-awad">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -881,12 +881,12 @@
     <!-- // ABDULKARIM // -->
     <!-- Zakaria -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Zaki-Dz">
-                <img src="https://avatars.githubusercontent.com/u/54380152?v=4" width="50">
+            <a href="https://github.com/Zaki-Dz" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/54380152?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Zakaria Mameri</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Zakaria Mameri</h2>
             </a>
             <br>            
             <table>
@@ -894,14 +894,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/zakaria-mameri-149b13222/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Zaki-Dz">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -912,12 +912,12 @@
     <!-- Zakaria -->
     <!-- AMIR Gendy-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/amirgendy">
-                <img src="https://avatars.githubusercontent.com/u/74946731?v=4" width="50">
+            <a href="https://github.com/amirgendy" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/74946731?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Amir Gendy Botros</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Amir Gendy Botros</h2>
             </a>
             <br>            
             <table>
@@ -925,28 +925,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/amir_gendy">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/amirgendybotros/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/AmirGendyBotros/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/amirgendy">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -957,12 +957,12 @@
     <!-- Amir Gendy Botros -->
     <!---OWIS BUKHARI-->
       <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/owisqari">
-                <img src="https://avatars.githubusercontent.com/u/78686803?s=400&u=c3fada54cbca0bcfc67a3c4f7727c6dcba15ad64&v=4" width="50">
+            <a href="https://github.com/owisqari" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/78686803?s=400&u=c3fada54cbca0bcfc67a3c4f7727c6dcba15ad64&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>اويس بخاري</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">اويس بخاري</h2>
             </a>
             <br>            
             <table>
@@ -970,21 +970,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/OwisBukhari">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="hhttps://www.linkedin.com/in/owis-bukhari-6a6b44184/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/owisqari">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -995,12 +995,12 @@
     <!--// OWIS BUKHARI //-->
      <!-- ReBestX -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/ReBestX">
-                <img src="https://avatars.githubusercontent.com/u/116752096?v=4" width="50">
+            <a href="https://github.com/ReBestX" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/116752096?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Ayman Ismail</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Ayman Ismail</h2>
             </a>
             <br>            
             <table>
@@ -1008,35 +1008,35 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/rebestx">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/aymanbismail">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/c/rebestx">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/rebestx/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/ReBestX">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1047,12 +1047,12 @@
     <!-- ReBestX -->
     <!-- @a7sa45 -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/a7sa45">
-                <img src="https://avatars.githubusercontent.com/u/36082752?s=400&u=4c2ff7d3d300ac303e0efdd9f254271cc3585704&v=4" width="50">
+            <a href="https://github.com/a7sa45" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/36082752?s=400&u=4c2ff7d3d300ac303e0efdd9f254271cc3585704&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>عبدالهادي ال بوسنينه</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">عبدالهادي ال بوسنينه</h2>
             </a>
             <br>            
             <table>
@@ -1060,49 +1060,49 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/abdulhadi-al-bo-sninah-576582205/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- TIK TOK -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/a7sa45">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1113,12 +1113,12 @@
     <!-- @a7sa45 -->
     <!-- WESSAM -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/wesam-abutuaimeh">
+            <a href="https://github.com/wesam-abutuaimeh" style="text-decoration: none; color: #333;">
                 <img src="https://avatars.githubusercontent.com/u/91456364?s=400&u=014d971f9ed6cce9097844a8ae84367aac18ebe9&v=4" style="width:50px ;height:50px ; border-radius:50%">
                 <br>
-                <h2>Wesam Abutaima</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Wesam Abutaima</h2>
             </a>
             <br>            
             <table>
@@ -1126,42 +1126,42 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Wesam_Abutaima">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/wesam-abutaima-55b100272/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/wesam.abutaima/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://instagram.com/wesam.abutaima?igshid=ZGUzMzM3NWJiOQ==">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- TIK TOK -->
                     <!-- <td>
                         <a href="https://www.tiktok.com/@yarobhm">
-                            <img src="./images/tik-tok-logo.png" width="30">
+                            <img src="./images/tik-tok-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td> -->
                     <!--// TIK TOK -->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/wesam-abutuaimeh">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1179,12 +1179,12 @@
     <!--// WESSAM //-->
     <!-- Omar -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/omaratbd7">
-                <img src="https://avatars.githubusercontent.com/u/58294140?v=4" width="50">
+            <a href="https://github.com/omaratbd7" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/58294140?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>عمر</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">عمر</h2>
             </a>
             <br>            
             <table>
@@ -1192,14 +1192,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/omar-ait-abderrahman/ ">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/omaratbd7">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1210,12 +1210,12 @@
     <!--// Omar //-->
     <!--// HASHIM //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Pwoerlevel">
+            <a href="https://github.com/Pwoerlevel" style="text-decoration: none; color: #333;">
                 <img src="https://avatars.githubusercontent.com/u/96821915?v=4" width="70">
                 <br>
-                <h2>هاشم محمد</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">هاشم محمد</h2>
             </a>
             <br>            
             <table>
@@ -1223,14 +1223,14 @@
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/profile.php?id=100069366840910">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                       <!-- // FACEBOOK // -->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Pwoerlevel">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1241,12 +1241,12 @@
     <!--// HASHIM //-->
     <!-- // Assem Saeed // -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/assem1637">
-                <img src="https://avatars.githubusercontent.com/u/71609097?v=4" width="50">
+            <a href="https://github.com/assem1637" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/71609097?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Assem Saeed</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Assem Saeed</h2>
             </a>
             <br>            
             <table>
@@ -1254,35 +1254,35 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/xAssomy">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/assem1637/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/Assem.Saeed.Official">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/xAssomy/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/assem1637">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1293,12 +1293,12 @@
     <!-- // Assem Saeed // -->
     <!--// Thamer //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/ThamerMalki">
-                <img src="https://avatars.githubusercontent.com/u/94167193?v=4" width="50">
+            <a href="https://github.com/ThamerMalki" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/94167193?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>The Warchief</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">The Warchief</h2>
             </a>
             <br>            
             <table>
@@ -1306,28 +1306,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/TKuubi">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/thamer-malki/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/@Tkuubi">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/ThamerMalki">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1338,12 +1338,12 @@
     <!--// Thamer //-->
     <!-- IBRAHIM -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/theiphoner">
+            <a href="https://github.com/theiphoner" style="text-decoration: none; color: #333;">
                 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="150">
                 <br>
-                <h2>ابراهيم محمد</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">ابراهيم محمد</h2>
             </a>
             <br>            
             <table>
@@ -1351,35 +1351,35 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/linux_rust">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/ibrahim-m-almalki/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/linux.plus.391/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/theiphoner">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1390,12 +1390,12 @@
     <!--// IBRAHIM //-->
      <!-- TARIQ -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/ELEF-TQ">
-                <img src="https://avatars.githubusercontent.com/u/73225639?v=4" width="50">
+            <a href="https://github.com/ELEF-TQ" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/73225639?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>TARIQ AIT LAKHLIFT</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">TARIQ AIT LAKHLIFT</h2>
             </a>
             <br>            
             <table>
@@ -1403,7 +1403,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/abdulkerim-awad">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1421,12 +1421,12 @@
     <!-- // TARIQ // -->
     <!-- MEHDI -->
     <tr>
-            <td align="center" width="600">
+            <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/ZouariMehdi">
-                <img src="https://media.licdn.com/dms/image/D4E03AQE9jkL3mMrmOA/profile-displayphoto-shrink_800_800/0/1683467328063?e=1689206400&v=beta&t=HUFU3r_Rn6XGi1V5ndpeumNBvNiqHhKgiaWbiPPyaxw" width="50">
+            <a href="https://github.com/ZouariMehdi" style="text-decoration: none; color: #333;">
+                <img src="https://media.licdn.com/dms/image/D4E03AQE9jkL3mMrmOA/profile-displayphoto-shrink_800_800/0/1683467328063?e=1689206400&v=beta&t=HUFU3r_Rn6XGi1V5ndpeumNBvNiqHhKgiaWbiPPyaxw"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Zouari Mehdi</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Zouari Mehdi</h2>
             </a>
             <br>            
             <table>
@@ -1434,21 +1434,21 @@
                 <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/zouari-mehdi-b483bb220/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/@ZouariSchool">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://avatars.githubusercontent.com/u/29100623?v=4">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1459,12 +1459,12 @@
     <!-- MEHDI -->
     <!-- HASAN -->
      <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/itskahrbaa">
-                <img src="https://avatars.githubusercontent.com/itskahrbaa" width="50">
+            <a href="https://github.com/itskahrbaa" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/itskahrbaa"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>حسن ياسر</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">حسن ياسر</h2>
             </a>
             <br>            
             <table>
@@ -1472,24 +1472,24 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/itskahrba">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/kahrbaa/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://bit.ly/Kahrbaa">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                         <a href="https://www.youtube.com/@iamKahrbaa">
-                            <img src="./images/youtube-logo.png" width="30">2
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">2
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
@@ -1506,12 +1506,12 @@
     <!--// HASAN  //-->
     <!-- Ahmad -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Ahmad-JS">
-                <img src="https://avatars.githubusercontent.com/u/96401137?v=4" width="50">
+            <a href="https://github.com/Ahmad-JS" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/96401137?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>احمد الحربي</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">احمد الحربي</h2>
             </a>
             <br>            
             <table>
@@ -1519,21 +1519,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/AHMADM6310">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/@AhmadJS">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Ahmad-JS">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1544,12 +1544,12 @@
     <!--// Ahmad //-->
     <!-- MBahusayn -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/mbahusayn">
-                <img src="https://avatars.githubusercontent.com/u/35426944?v=4" width="50">
+            <a href="https://github.com/mbahusayn" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/35426944?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2> Mohammed Bahusayn </h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;"> Mohammed Bahusayn </h2>
             </a>
             <br>            
             <table>
@@ -1557,21 +1557,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MBahusayn">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mbahusayn/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/MBahusayn">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1582,12 +1582,12 @@
     <!--// MBahusayn //-->
     <!-- JOLAQ -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/jolaq227">
-                <img src="https://avatars.githubusercontent.com/u/119108696?v=4" width="50">
+            <a href="https://github.com/jolaq227" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/119108696?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2> Muhammed Jolaq </h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;"> Muhammed Jolaq </h2>
             </a>
             <br>            
             <table>
@@ -1595,28 +1595,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Jolak227">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/muhammed-colak/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://instagram.com/jolak_227">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/jolaq227">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1627,12 +1627,12 @@
     <!--// JOLAQ //-->                  
     <!--// Zyadfallatah //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/zyadfallatah">
-                <img src="https://avatars.githubusercontent.com/u/93343139?s=400&u=5b1f485b934b5562eb47cda2e70719c96501b392&v=4" width="50">
+            <a href="https://github.com/zyadfallatah" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/93343139?s=400&u=5b1f485b934b5562eb47cda2e70719c96501b392&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>zyadfallatah</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">zyadfallatah</h2>
             </a>
             <br>            
             <table>
@@ -1640,21 +1640,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/zyad_fallatah">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/zyadfal/">
-                            <img src="./images/instagram-logo.png" width="30">
+                            <img src="./images/instagram-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/zyadfallatah">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1665,12 +1665,12 @@
     <!--// Zyadfallatah //-->
     <!-- Badr Alwattar -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/badr-alwattar">
-                <img src="https://avatars.githubusercontent.com/u/62515831?v=4" width="50">
+            <a href="https://github.com/badr-alwattar" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/62515831?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2> Badr Alwattar </h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;"> Badr Alwattar </h2>
             </a>
             <br>            
             <table>
@@ -1678,21 +1678,21 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/badr_alwattar">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/bader-eddin-alwattar">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/badr-alwattar">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1703,12 +1703,12 @@
     <!--// Badr Alwattar //--> 
     <!--// Mohamed CHAKIR //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Ahmad-JS">
-                <img src="https://avatars.githubusercontent.com/u/84877856?v=4" width="50">
+            <a href="https://github.com/Ahmad-JS" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/84877856?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Mohamed CHAKIR</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Mohamed CHAKIR</h2>
             </a>
             <br>            
             <table>
@@ -1716,14 +1716,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/ChakirMohamed/">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/chakirmohamed/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -1734,11 +1734,11 @@
     <!--// Mohamed CHAKIR //-->
     <!--// Abdelrahmna A.Z //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/A-AZ">
+            <a href="https://github.com/A-AZ" style="text-decoration: none; color: #333;">
                 <br>
-                <h2>Abdelrahman Abu Zahra</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Abdelrahman Abu Zahra</h2>
             </a>
             <br>            
             <table>
@@ -1746,14 +1746,14 @@
                     <!--// LINKEDIN //-->
                     <td>
                         <a href="https://www.linkedin.com/in/abdelrahman-abu-zahra/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKEDIN //-->
                     <!--// GITHUB //-->
                     <td>
                         <a href="https://github.com/A-AZ">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1764,12 +1764,12 @@
     <!--// Abdelrahman A.Z //-->
     <!-- // Rabil Ibraiel // -->
         <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Rabil-Ibraiel">
-                <img src="https://avatars.githubusercontent.com/u/96547109?v=4" width="50">
+            <a href="https://github.com/Rabil-Ibraiel" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/96547109?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Rabil Ibraile</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Rabil Ibraile</h2>
             </a>
             <br>            
             <table>
@@ -1777,14 +1777,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/rabil-ibraiel-b37646215/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Rabil-Ibraiel">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1795,12 +1795,12 @@
     <!-- // Rabil Ibraiel // -->
     <!-- MOHAMMED -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/mohamed404eg">
-                <img src="https://avatars.githubusercontent.com/u/120054071?v=4" width="50">
+            <a href="https://github.com/mohamed404eg" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/120054071?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Mohamed Ramadn</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Mohamed Ramadn</h2>
             </a>
             <br>            
             <table>
@@ -1808,28 +1808,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/mohamed404eg">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mohamed404eg/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/mohamed404eg">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/mohamed404eg">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1840,12 +1840,12 @@
     <!-- // MOHAMMED // -->
     <!-- HANNANE -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Hanane1991">
-                <img src="https://avatars.githubusercontent.com/u/137216507?v=4" width="50">
+            <a href="https://github.com/Hanane1991" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/137216507?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>حنان  Hanane</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">حنان  Hanane</h2>
             </a>
             <br>            
             <table>
@@ -1853,7 +1853,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Hanane1991">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1864,12 +1864,12 @@
     <!--// HANNANE //-->
     <!-- // Ahmed Maadh // -->
         <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/AhmedMaadh">
-                <img src="https://avatars.githubusercontent.com/u/137011062?v=4" width="50">
+            <a href="https://github.com/AhmedMaadh" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/137011062?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Ahmed Maadh</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Ahmed Maadh</h2>
             </a>
             <br>            
             <table>
@@ -1877,14 +1877,14 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/AhmedMaadh7">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AhmedMaadh">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1895,12 +1895,12 @@
     <!-- // Ahmed Maadh // -->
     <!-- billal benzazoua -->
         <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/billalben">
-                <img src="https://avatars.githubusercontent.com/u/121855587?v=4" width="50">
+            <a href="https://github.com/billalben" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/121855587?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Billal Benzazoua</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Billal Benzazoua</h2>
             </a>
             <br>            
             <table>
@@ -1908,28 +1908,28 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Benzazouabillal">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/billal-benzazoua-554144195/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/billal.benzazoua/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/billalben">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1940,12 +1940,12 @@
     <!-- billal benzazoua -->
     <!--  Maram Saeed  -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/maram-saeed">
-                <img src="https://avatars.githubusercontent.com/u/126006325?v=4" width="50">
+            <a href="https://github.com/maram-saeed" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/126006325?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Maram Saeed</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Maram Saeed</h2>
             </a>
             <br>            
             <table>
@@ -1953,7 +1953,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/maram-saeed">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1964,12 +1964,12 @@
     <!-- // Maram Saeed // -->
     <!-- KHULOUD ALSHAMMARI -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/khuloudAlshammari">
-                <img src="https://avatars.githubusercontent.com/u/84877856?v=4" width="50">
+            <a href="https://github.com/khuloudAlshammari" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/84877856?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>KHULOUD ALSHAMMARI</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">KHULOUD ALSHAMMARI</h2>
             </a>
             <br>            
             <table>
@@ -1977,14 +1977,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/khuloudAlshammari/Forked">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/khuloudalshammari">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -1995,12 +1995,12 @@
     <!--// KHULOUD ALSHAMMARI //-->
     <!-- Rayen Nasser -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Rayen-nasser">
-                <img src="https://avatars.githubusercontent.com/u/111684397?v=4" width="50">
+            <a href="https://github.com/Rayen-nasser" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/111684397?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Rayen Nasser</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Rayen Nasser</h2>
             </a>
             <br>            
             <table>
@@ -2008,21 +2008,21 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Rayen-nasser/">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.facebook.com/rayen.nasser.33">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/rey10976601">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
@@ -2033,12 +2033,12 @@
     <!--// Rayen Nasser //-->
     <!--// Saud Alghamdi //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Saud-Alghamdi">
-                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+            <a href="https://github.com/Saud-Alghamdi" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Saud Alghamdi</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Saud Alghamdi</h2>
             </a>
             <br>            
             <table>
@@ -2046,14 +2046,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Saud-Alghamdi/">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/saudaalghamdi">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -2064,12 +2064,12 @@
     <!--// Saud Alghamdi //-->
     <!--// Haidar Emad Abdo //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/HaidarEmadAbdo">
-                <img src="https://avatars.githubusercontent.com/u/139217562?v=4" width="50">
+            <a href="https://github.com/HaidarEmadAbdo" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/139217562?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Haidar Emad Abdo</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Haidar Emad Abdo</h2>
             </a>
             <br>            
             <table>
@@ -2077,14 +2077,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/HaidarEmadAbdo">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/en-haidar-abdo-878046264/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -2095,12 +2095,12 @@
     <!--// Haidar Abdo //-->
     <!-- Amirat Abdelkrim -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/AbdelkrimAmirat">
-                <img src="https://avatars.githubusercontent.com/u/157597079?v=4" width="50">
+            <a href="https://github.com/AbdelkrimAmirat" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/157597079?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Abdelkrim Amirat</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Abdelkrim Amirat</h2>
             </a>
             <br>
             <table>
@@ -2108,21 +2108,21 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AbdelkrimAmirat">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/abdelkrim-amirat-4796167/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/abdelkrim.amirat/">
-                            <img src="./images/facebook-logo.png" width="30">
+                            <img src="./images/facebook-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
@@ -2133,12 +2133,12 @@
     <!--// Amirat Abdelkrim //-->
     <!-- Raouf kamel -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/raouf-kamel">
-                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+            <a href="https://github.com/raouf-kamel" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Raouf kamel</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Raouf kamel</h2>
             </a>
             <br>            
             <table>
@@ -2146,14 +2146,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/raouf-kamel/">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/raouf-kamel">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -2164,12 +2164,12 @@
     <!--// Raouf kamel //-->
     <!--Usaid Alhadeethi--> 
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/usaidalhadeethi">
-                <img src="https://avatars.githubusercontent.com/u/101979002?v=4" width="50">
+            <a href="https://github.com/usaidalhadeethi" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/101979002?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Usaid Alhadeethi</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Usaid Alhadeethi</h2>
             </a>
             <br>            
             <table>
@@ -2177,7 +2177,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/usaidalhadeethi">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -2188,12 +2188,12 @@
     <!--Usaid Alhadeethi-->
     <!--// Yasser korzane //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/yasseresi">
-                <img src="https://avatars.githubusercontent.com/u/119799502?v=4" width="50">
+            <a href="https://github.com/yasseresi" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/119799502?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>yasser korzane</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">yasser korzane</h2>
             </a>
             <br>            
             <table>
@@ -2201,14 +2201,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/yasseresi">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/korzane-yasser/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
@@ -2219,12 +2219,12 @@
     <!--// yasser korzane //--> 
     <!--// Ahmad95 // -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/AhmadAlhadidi95">
-                <img src="https://avatars.githubusercontent.com/u/101137851?v=4" width="50">
+            <a href="https://github.com/AhmadAlhadidi95" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/101137851?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>Ahmad Alhadidi</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">Ahmad Alhadidi</h2>
             </a>
             <br>            
             <table>
@@ -2232,14 +2232,14 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AhmadAlhadidi95">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/AhmadAlhadidi95">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// TWITTER //-->
@@ -2250,12 +2250,12 @@
 	<!--// Ahmad95 // -->
     <!--// youssefDev //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/yusufDev">
-                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+            <a href="https://github.com/yusufDev" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>youssefDev</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">youssefDev</h2>
             </a>
             <br>            
             <table>
@@ -2263,7 +2263,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/yusufDev/">
-                            <img src="https://avatars.githubusercontent.com/u/13785050?v=4" width="30">
+                            <img src="https://avatars.githubusercontent.com/u/13785050?v=4"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -2274,12 +2274,12 @@
     <!--// youssefDev //-->
     <!--// Mohammad Amin Taha //-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" style="padding: 20px; background: #dedede; border-radius: 10px;">
         &nbsp;&nbsp
-            <a href="https://github.com/Mohammad-Taha-Programmer">
-                <img src="https://avatars.githubusercontent.com/u/93265317?s=400&u=02e52e1538d486e2f2a398247661740b2f4d4f68&v=4" width="50">
+            <a href="https://github.com/Mohammad-Taha-Programmer" style="text-decoration: none; color: #333;">
+                <img src="https://avatars.githubusercontent.com/u/93265317?s=400&u=02e52e1538d486e2f2a398247661740b2f4d4f68&v=4"  width="80" style="border-radius: 50%; margin-bottom: 10px;">
                 <br>
-                <h2>محمد أمين طه</h2>
+                <h2 style="margin: 0 0 0px 0; font-family: Arial, sans-serif;">محمد أمين طه</h2>
             </a>
             <br>            
             <table>
@@ -2287,21 +2287,21 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mohammad-taha-192bb8225/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- YOUTUBE -->
                     <td>
                         <a href="https://www.youtube.com/c/MohammadTaha">
-                            <img src="./images/youtube-logo.png" width="30">
+                            <img src="./images/youtube-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mohammad-Taha-Programmer">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png"  width="25" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.8">
                         </a>
                     </td>
                     <!--// GITHUB //-->
